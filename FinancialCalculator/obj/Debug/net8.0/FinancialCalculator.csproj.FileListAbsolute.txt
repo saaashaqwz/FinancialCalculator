@@ -1,0 +1,14 @@
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/FinancialCalculator
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/FinancialCalculator.deps.json
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/FinancialCalculator.runtimeconfig.json
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/FinancialCalculator.dll
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/FinancialCalculator.pdb
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/FinancialCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/FinancialCalculator.AssemblyInfoInputs.cache
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/FinancialCalculator.AssemblyInfo.cs
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/FinancialCalculator.csproj.CoreCompileInputs.cache
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/FinancialCalculator.dll
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/refint/FinancialCalculator.dll
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/FinancialCalculator.pdb
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/FinancialCalculator.genruntimeconfig.cache
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/ref/FinancialCalculator.dll
