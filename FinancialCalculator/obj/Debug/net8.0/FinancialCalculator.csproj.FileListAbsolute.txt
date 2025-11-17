@@ -12,3 +12,15 @@
 /Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/FinancialCalculator.pdb
 /Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/FinancialCalculator.genruntimeconfig.cache
 /Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/ref/FinancialCalculator.dll
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/FinancialCalculator.sourcelink.json
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/Castle.Core.dll
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/Moq.dll
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/xunit.assert.dll
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/xunit.core.dll
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/FinancialCalculator.csproj.AssemblyReference.cache
+/Users/saaashaqwz/RiderProjects/FinancialCalculator/FinancialCalculator/obj/Debug/net8.0/Financia.3256CBA4.Up2Date

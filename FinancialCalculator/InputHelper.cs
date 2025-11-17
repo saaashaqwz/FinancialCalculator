@@ -1,5 +1,12 @@
 namespace FinancialCalculator;
 
+public interface IInputHelper
+{
+    double ReadPositiveDouble(string prompt);
+    int ReadPositiveInt(string prompt);
+    double ReadNonNegativeDouble(string prompt);
+}
+
 public class InputHelper
 {
     public static double ReadPositiveDouble(string prompt)

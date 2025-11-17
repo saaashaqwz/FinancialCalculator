@@ -4,8 +4,8 @@ public class CurrencyConverter
 {
     private static readonly Dictionary<string, Dictionary<string, double>> Rates = new()
     {
-        { "USD", new Dictionary<string, double> { { "RUB", 90.0 } } },
-        { "EUR", new Dictionary<string, double> { { "RUB", 98.5 }, { "USD", 1.09 } } },
+        { "USD", new Dictionary<string, double> { { "RUB", 80.49 } } },
+        { "EUR", new Dictionary<string, double> { { "RUB", 94.02 }, { "USD", 1.16 } } },
         { "RUB", new Dictionary<string, double>() }
     };
 
